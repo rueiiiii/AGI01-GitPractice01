@@ -40,6 +40,8 @@ MANIFEST
 data/*
 !data/**/.gitkeep
 !data/.gitkeep
+dataset/*
+
 
 # Jupyter Notebook
 .ipynb_checkpoints
